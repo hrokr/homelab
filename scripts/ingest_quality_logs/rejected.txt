@@ -1,0 +1,327 @@
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Britney Spears/Circus (Deluxe Version)/Britney Spears - Circus (Main Version).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Britney Spears/Circus (Deluxe Version)/Britney Spears - If U Seek Amy (Main Version).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Britney Spears/Circus (Deluxe Version)/Britney Spears - Womanizer (Main Version).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Britney Spears/The Singles Collection/Britney Spears - 3.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Death/Symbolic/Death-Symbolic-05-1,000 Eyes.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Depeche Mode/Playing the Angel/01_Track 01.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Eagles/The Very Best Of (disc 1)/Eagles-The Very Best Of-13-James Dean.WAV
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Evanescence/Fallen/12_Track 12.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Flamin' Groovies/Whisky Woman/01 Track 01.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Flamin' Groovies/Whisky Woman/02 Track 02.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Flamin' Groovies/Whisky Woman/03 Track 03.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Flamin' Groovies/Whisky Woman/04 Track 04.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Flamin' Groovies/Whisky Woman/05 Track 05.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Flamin' Groovies/Whisky Woman/06 Track 06.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Flamin' Groovies/Whisky Woman/07 Track 07.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Flamin' Groovies/Whisky Woman/08 Track 08.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Flamin' Groovies/Whisky Woman/09 Track 09.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Fugees/The Score (Explicit)/Fugees - Cowboys.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Fugees/The Score (Explicit)/Fugees - How Many Mics.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Fugees/The Score (Explicit)/Fugees - Killing Me Softly With His Song.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Fugees/The Score (Explicit)/Fugees - No Woman, No Cry.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/George Thorogood/Bad To The Bone/George Thorogood - Bad To The Bone.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/George Thorogood/Greatest Hits_ 30 Years Of Rock/George Thorogood - Bad To The Bone.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Kiss/Box Set (disc 4)/Kiss-Box Set (disc 4)-01-Lick It Up.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Kiss/Box Set (disc 4)/Kiss-Box Set (disc 4)-07-Uh! All Night.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Kiss/Box Set (disc 4)/Kiss-Box Set (disc 4)-15-Silver Spoon.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Kiss/Box Set (disc 5)/Kiss-Box Set (disc 5)-02-Unholy.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Kiss/Box Set (disc 5)/Kiss-Box Set (disc 5)-16-It's My Life (original version).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Kiss/Box Set (disc 5)/Kiss-Box Set (disc 5)-17-Shout It Out Loud (live).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Korn/See You On the Other Side/01_Track 01.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Korn/See You On the Other Side/02_Track 02.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Korn/See You On the Other Side/03_Track 03.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Korn/See You On the Other Side/04_Track 04.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Korn/See You On the Other Side/05_Track 05.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Korn/See You On the Other Side/06_Track 06.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Korn/See You On the Other Side/07_Track 07.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Korn/See You On the Other Side/08_Track 08.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Korn/See You On the Other Side/09_Track 09.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Korn/See You On the Other Side/10_Track 10.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Korn/See You On the Other Side/11_Track 11.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Korn/See You On the Other Side/12_Track 12.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Lady Antebellum/Need You Now/Lady Antebellum - American Honey.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Lady Antebellum/Need You Now/Lady Antebellum - Our Kind Of Love.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Lady Antebellum/Need You Now/Lady Antebellum - Ready To Love Again.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Lady Antebellum/Need You Now/Lady Antebellum - Something 'Bout A Woman.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Lissie/Why You Runnin' (EP)/Lissie - Everywhere I Go.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Lissie/Why You Runnin' (EP)/Lissie - Little Lovin'.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Lissie/Why You Runnin' (EP)/Lissie - Oh Mississippi.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel -/01_Track 01.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel -/02_Track 02.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel -/03_Track 03.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel -/04_Track 04.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel -/05_Track 05.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel -/06_Track 06.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel -/07_Track 07.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel -/08_Track 08.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel -/09_Track 09.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel -/10_Track 10.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel -/11_Track 11.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel -/12_Track 12.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel - Ambient/01_Track 01.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel - Ambient/02_Track 02.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel - Ambient/03_Track 03.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel - Ambient/04_Track 04.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel - Ambient/05_Track 05.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel - Ambient/06_Track 06.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel - Ambient/07_Track 07.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel - Ambient/08_Track 08.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel - Ambient/09_Track 09.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel - Ambient/10_Track 10.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Moby/Hotel - Ambient/11_Track 11.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Modest Mouse/Good News For People Who Love Bad News/Modest Mouse - The Good Times Are Killing Me.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Modest Mouse/The Moon & Antarctica (Extra Tracks)/Modest Mouse - 3rd Planet.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Modest Mouse/The Moon & Antarctica (Extra Tracks)/Modest Mouse - I Came As A Rat.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Modest Mouse/The Moon & Antarctica (Extra Tracks)/Modest Mouse - Paper Thin Walls.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Modest Mouse/The Moon & Antarctica (Extra Tracks)/Modest Mouse - Wild Packs Of Family Dogs.mp3
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies/Hancock.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies/I.Am.Legend[2007].avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies/MINORITY_REPORT.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies/Monty.Python.and.the.Holy.Grail_mpeg4.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies/Soldier (DVD).avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies/Syriana.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies/Batman.Collection[1989-2005]DvDrip-aXXo/Batman.&.Robin[1997]DvDrip-aXXo.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies/Batman.Collection[1989-2005]DvDrip-aXXo/Batman.Begins[2005]DvDrip-aXXo.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies/Batman.Collection[1989-2005]DvDrip-aXXo/Batman.Forever[1995]DvDrip-aXXo.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies/Batman.Collection[1989-2005]DvDrip-aXXo/The Dark Knight.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/007 #14 - A View To A Kill.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/007 #15 - The Living Daylights.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/007 #16 - License to Kill.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/007 #17 - Goldeneye.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/007 #18 - Tomorrow Never Dies.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/007 #20 - Die Another Day.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/007 #21 - Casino Royale.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/007 #22 - Quantum of Solace.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/28 Days Later.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/28 Weeks Later.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/300.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/A Beautiful Mind.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Afghanistan - Cut From Different Cloth.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Alexander the Great.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Alice in Wonderland.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Alien vs Predator.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Batman Begins.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Black Swan.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Blade.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Blood Diamond.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Body of Lies.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Born Into Brothels.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Braveheart [1995].avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Bride Wars[2009]DvDrip[Eng]-FXG.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Bubba Ho-Tep.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Burn After Reading.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Casablanca.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Casino Royale.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Casino Royale.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Charlie Wilson's War.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Clerks 2 (2).avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Confessions Of A Dangerous Mind.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Dinner for Schmucks.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/District 9.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Disturbia.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Dodgeball.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Dogma.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Dukes of Hazzard.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Enemy at the Gates.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Enemy of the State.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Enter the Dragon.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Exorcist - The Beginning.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Exorcist, The.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Fantastic Four Rise of the Silver Surfer.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Fantastic Four.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Fast Times at Ridgemont High.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Fear and Loathing in Las Vegas.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Fearless.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Ferris Bueller's Day Off (2).avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Fifth Element.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Fight Club (DVD).avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Finding Nemo.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Forest Gump.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Gladiator.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Goodwill Hunting.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Harold & Kumar - Go to White Castle.mp4
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Harold and Kumar Escape from Guantanamo Bay.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/James Bond 007 - On her Majesty's Secret Service(1969).avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Star Wars - The Clone Wars.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Star Wars Episode I - The Phantom Menace.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Star Wars Episode II - Attack Of The Clones.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Star Wars Episode III - Revenge Of The Sith.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Star Wars Episode IV - A New Hope.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Star Wars Episode V - The Empire Strikes Back.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Star Wars Episode VI - Return Of The Jedi.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/El Mariachi/Desperado.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/El Mariachi/Once Upon A Time In Mexico.2003.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/From Dusk Till Dawn/From Dusk Till Dawn (1996) DVDRip.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/From Dusk Till Dawn/From Dusk Till Dawn 2 - Texas Blood Money (1999) DVDRip.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/From Dusk Till Dawn/From Dusk Till Dawn 3 - The Hangman's Daughter (2000) DVDRip.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Hannibal Lecter/Hannibal.[2001].BRrip.[engsub]-MBI.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Hannibal Lecter/Hannibal.Rising.[2007].BRrip.[engsub]-MIB.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Hitman/hitman.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Mission Impossible/Mission Impossible I.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Mission Impossible/Mission Impossible II.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Mission Impossible/Mission-Impossible.3[2006]DvDrip[Eng]-aXXo.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/The Omen/Damien-The.Omen.II[1978]DvDrip-aXXo.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/The Omen/The.Omen.III-The.Final.Conflict[1981]DvDrip-aXXo.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/The Omen/The.Omen.IV-The.Awakening[1991]DvDrip-aXXo.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/The Omen/The.Omen[1976]DvDrip-aXXo.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/The Omen/The.Omen[2006]DvDrip-aXXo.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Underworld Films/Underworld - Extended Cut.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Underworld Films/Underworld 3 - Rise of the Lycans.avi
+[REJECT] Sub-DVD (0p) | /data/staging_music/ to B music from ipod/movies from d/Underworld Films/Underworld Evolution.avi
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/N.W.A_/N.W.A-Straight Outta Compton-01-Straight Outta Compton.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/N.W.A_/N.W.A-Straight Outta Compton-02-Fuck tha Police.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/N.W.A_/N.W.A-Straight Outta Compton-03-Gangsta Gangsta.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/N.W.A_/N.W.A-Straight Outta Compton-04-If It Ain't Ruff.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/N.W.A_/N.W.A-Straight Outta Compton-05-Parental Discretion Iz Advised.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/N.W.A_/N.W.A-Straight Outta Compton-06-8 Ball (remix).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/N.W.A_/N.W.A-Straight Outta Compton-07-Something Like That.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/N.W.A_/N.W.A-Straight Outta Compton-08-Express Yourself.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/N.W.A_/N.W.A-Straight Outta Compton-09-Compton's N the House (remix).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/N.W.A_/N.W.A-Straight Outta Compton-10-I Ain't tha 1.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/N.W.A_/N.W.A-Straight Outta Compton-11-Dopeman (remix).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/N.W.A_/N.W.A-Straight Outta Compton-12-Quiet on tha Set.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/N.W.A_/N.W.A-Straight Outta Compton-13-Something 2 Dance 2.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Bloodhound Gang-Use Your Fingers-09-One Way.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Bloodhound Gang-Use Your Fingers-17-Rang Dang.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Bon Jovi-Slippery When Wet-02-You Give Love a Bad Name.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Bon Jovi-Slippery When Wet-09-Never Say Goodbye.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Digital Underground-Sex Packets-01-The Humpty Dance.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Dope-Group Therapy-11-Burn.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Fugees-The Score-09-The Score.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Gnarls Barkley-St. Elsewhere-04-Gone Daddy Gone.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Grateful Dead-Skeletons From the Closet The Best of the Grateful Dead-06-Uncle John's Band.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Guns N' Roses-Appetite for Destruction-05-Mr. Brownstone.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Jars of Clay-Furthermore From the Stage (disc 2)-10-Flood.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Jim Croce-Simply the Best Time in a Bottle His Greatest Hits-03-You Don't Mess Around With Jim.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Johnny Cash & June Carter-Carryin' on With Johnny Cash & June Carter-01-Long-Legged Guitar-Pickin' Man.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Lloyd Cole and the Commotions-Rattlesnakes-05-Forest Fire.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Me First and the Gimme Gimmes-Have a Ball-05-Uptown Girl.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Mephiskapheles-God Bless Satan-09-Saba.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Method Man-Tical-13-Method Man (remix).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/N2Deep-Back to the Hotel-03-Back to the Hotel.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Neil Diamond-Gold-07-Sweet Caroline.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Neil Diamond-The Essential Neil Diamond (disc 1)-05-Girl, You'll Be a Woman Soon.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Neil Diamond-The Essential Neil Diamond (disc 1)-14-Cracklin' Rosie.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/Neil Diamond-The Essential Neil Diamond (disc 2)-13-Forever in Blue Jeans.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/NewYears/NewYears/New Kids on the Block-Greatest Hits-02-You Got It (The Right Stuff).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Nine Inch Nails/Unnamed Album/03_03 Track 3.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Nine Inch Nails/With Teeth/01_Track 01.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Nine Inch Nails/With Teeth/02_Track 02.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Nine Inch Nails/With Teeth/03_Track 03.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Nine Inch Nails/With Teeth/04_Track 04.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Nine Inch Nails/With Teeth/05_Track 05.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Nine Inch Nails/With Teeth/06_Track 06.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Nine Inch Nails/With Teeth/07_Track 07.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Nine Inch Nails/With Teeth/08_Track 08.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Nine Inch Nails/With Teeth/09_Track 09.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Nine Inch Nails/With Teeth/10_Track 10.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Nine Inch Nails/With Teeth/11_Track 11.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Nine Inch Nails/With Teeth/12_Track 12.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/No Doubt/The Singles 1992-2003/No Doubt-The Singles 1992-2003-10-Running.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/No Doubt/The Singles 1992-2003/No Doubt-The Singles 1992-2003-12-Simple Kind of Life.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/No Doubt/The Singles 1992-2003/No Doubt-The Singles 1992-2003-13-Don't Speak.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Notorious B.I.G/Life After Death (disc 2)/Notorious B.I.G.-Life After Death (disc 2)-04-Going Back to Cali.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Oasis/(What's the Story) Morning Glory/Oasis-(What's the Story) Morning Glory-11-(Swamp Song Excerpt #2).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Oasis/(What's the Story) Morning Glory/Oasis-(What's the Story) Morning Glory-12-Champagne Supernova.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Oasis/Be Here Now/Oasis-Be Here Now-11-It's Getting Better (Man!!).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Oasis/Don't Look Back in Anger/Oasis-Don't Look Back in Anger-03-Underneath the Sky.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Oasis/Don't Look Back in Anger/Oasis-Don't Look Back in Anger-04-Cum On Feel the Noize.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Oasis/Familiar to Millions (disc 2)/Oasis-Familiar to Millions (disc 2)-05-Hey Hey, My My.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Oasis/Roll With It/Oasis-Roll With It-02-It's Better People.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Oasis/Some Might Say/Oasis-Some Might Say-02-Talk Tonight.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Oasis/Stand by Me/Oasis-Stand by Me-04-Going Nowhere.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Oasis/Supersonic/Oasis-Supersonic-02-Take Me Away.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Oasis/Whatever/Oasis-Whatever-02-(It's Good) To Be Free.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/One Republic/Drowning In The Sea Of Life/One Republic - Drowning In The Sea Of Life - 01 - Tyrant.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pat Green/Unnamed Album/01_01 Track 1.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pat Green/Unnamed Album/02_02 Track 2.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pat Green/Unnamed Album/03_03 Track 3.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pearl Jam/Ten/Pearl Jam-Ten-12-Alive (live).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pitbull/M.I.A.M.I/Pitbull-M.I.A.M.I.-01-305 Anthem (feat. Lil Jon).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pitbull/M.I.A.M.I/Pitbull-M.I.A.M.I.-05-Toma (feat. Lil Jon & Fat Joe).mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Poison/Flesh & Blood/Poison-Flesh & Blood-11-Something to Believe In.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Primus/Tales From the Punchbowl/Primus-Tales From the Punchbowl-03-Wynona's Big Brown Beaver.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pussy Cat Dolls/PCD/01_Track 01.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pussy Cat Dolls/PCD/02_Track 02.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pussy Cat Dolls/PCD/03_Track 03.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pussy Cat Dolls/PCD/04_Track 04.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pussy Cat Dolls/PCD/05_Track 05.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pussy Cat Dolls/PCD/06_Track 06.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pussy Cat Dolls/PCD/07_Track 07.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pussy Cat Dolls/PCD/08_Track 08.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pussy Cat Dolls/PCD/09_Track 09.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pussy Cat Dolls/PCD/10_Track 10.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pussy Cat Dolls/PCD/11_Track 11.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Pussy Cat Dolls/PCD/12_Track 12.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Some Palestinian guy/Some Palestinian guy_ album/01_Track 01.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Some Palestinian guy/Some Palestinian guy_ album/02_Track 02.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Some Palestinian guy/Some Palestinian guy_ album/03_Track 03.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Some Palestinian guy/Some Palestinian guy_ album/04_Track 04.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Some Palestinian guy/Some Palestinian guy_ album/05_Track 05.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Some Palestinian guy/Some Palestinian guy_ album/06_Track 06.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Some Palestinian guy/Some Palestinian guy_ album/07_Track 07.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Some Palestinian guy/Some Palestinian guy_ album/08_Track 08.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Some Palestinian guy/Some Palestinian guy_ album/09_Track 09.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Some Palestinian guy/Some Palestinian guy_ album/10_Track 10.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Some Palestinian guy/Some Palestinian guy_ album/11_Track 11.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Some Palestinian guy/Some Palestinian guy_ album/12_Track 12.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/T. Harv Elker/Unnamed Album/01_Track 01.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/The Doors/Unnamed Album/02_Track 02.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unidentified Album/11_Track 11.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unidentified Album/12_Track 12.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unknown Album/01 Track 01.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unknown Album/02 Track 02.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unknown Album (19_09_2003 02_35_03)/04 Track 4.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_25 Or 6 Or 4.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Aerosmith  Angel.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_AEROSMITH - AMAZING.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_AEROSMITH - BACK IN THE SADDLE.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_AEROSMITH - CRAZY.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_AEROSMITH - CRYIN_.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Aerosmith - eattherich.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_AEROSMITH - FALLING IN LOVE _IS HARD ON THE KNEES_.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Aerosmith - Jaded.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_AEROSMITH - JANIE_S GOT A GUN.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_AEROSMITH - LIVIN_ ON THE EDGE.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_AEROSMITH - RAG DOLL.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_AEROSMITH - SAME OLD SONG AND DANCE.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_AEROSMITH - SWEET EMOTION.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Aerosmith with Run DMC - Walk This Way.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Bangles - Manic Monday.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Bob Seger- Mainstreet.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Breakin_ All The Rules.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Can_t Believe.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Desire.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Dr. Dre - Nothin But A G Thang.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Dreamer.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Eminem, Dr. Dre, Snoop Dogg - My Name Is..., Guilty Conscience, G Thang 99 _Mix_.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Epiphany.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Eric Clapton - Layla _Unplugged_.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Fade.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Flying High Again.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_For You.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Hit The Lights.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_I Don_t Want To Change The World.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_I Just Want You.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Jump In The Fire.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Mama, I_m Coming Home.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Melissa Ethridge - I_m the Only One.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Motorbreath.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_No Easy Way Out.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_No Remorse.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Nop More Tears.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Open Your Eyes.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Outside.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Phantom.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Physical.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Pressure.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Safe Place.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_See You On The Other Side.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Seek _ Destroy.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Suffer.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Take It.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Waste.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/00_Whiplash.mp3
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/01_Track 01.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/Various Artists/Unnamed Album/02_Track 02.m4a
+[REJECT] Lower Bitrate (0 <= 0) | /data/staging_music/ to B music from ipod/White Zombie/Astro-creep_ 2000/04_Track 04.m4a

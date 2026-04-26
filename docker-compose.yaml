@@ -1,0 +1,213 @@
+services:
+  mdns-publisher:
+    image: novaspirit/alpine-avahi
+    container_name: mdns_publisher
+    network_mode: host
+    environment:
+      - AV_HOST=media-server
+    command: >
+      sh -c "sleep 5 && 
+      avahi-publish -a -R jellyfin.local 10.100.1.96 & 
+      avahi-publish -a -R navidrome.local 10.100.1.96 & 
+      avahi-publish -a -R traefik.local 10.100.1.96 & 
+      wait"
+    restart: unless-stopped
+
+  traefik:
+    image: traefik:v2.11
+    container_name: traefik
+    command:
+      - "--api.insecure=true"
+      - "--providers.docker=true"
+      - "--providers.docker.exposedbydefault=false"
+      - "--entrypoints.web.address=:80"
+    ports:
+      - "80:80"
+      - "8080:8080"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - ./config/traefik:/etc/traefik
+    networks:
+      - homelab-net
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.t-dash.rule=Host(`traefik.local`)"
+      - "traefik.http.routers.t-dash.service=api@internal"
+
+  jellyfin:
+    image: jellyfin/jellyfin
+    container_name: jellyfin
+    user: "1000:1000"
+    group_add:
+      - "44"
+      - "992"
+    devices:
+      - /dev/dri:/dev/dri
+    volumes:
+      - ./config/jellyfin:/config
+      - primary_data:/data/movies
+    networks:
+      - homelab-net
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.jelly.rule=Host(`jellyfin.local`)"
+      - "traefik.http.services.jelly.loadbalancer.server.port=8096"
+    restart: unless-stopped
+
+  backup-manager:
+    image: python:3.11-slim
+    container_name: backup_manager
+    privileged: true
+    environment:
+      - PRIMARY_MOUNT=/mnt/primary
+      - FAILOVER_MOUNT=/mnt/failover
+      - STAGING_PATH=/mnt/primary/staging
+      - MUSIC_DEST=/mnt/primary/Music
+      - MOVIE_DEST=/mnt/primary/Movies
+      - STATE_FILE=/config/.failover_sync_state
+    volumes:
+      - primary_data:/mnt/primary:rw
+      - failover_data:/mnt/failover:rw
+      - ./scripts:/scripts:ro
+      - ./config:/config:rw
+    entrypoint: ["python", "/scripts/sync_btrfs.py"]
+    restart: "no"
+
+  tinymediamanager:
+    image: tinymediamanager/tinymediamanager:latest
+    container_name: tinymediamanager
+    environment:
+      - USER_ID=1000
+      - GROUP_ID=1000
+      - TZ=America/New_York
+      - PASSWORD=yourpassword
+    volumes:
+      - ./config/tmm:/data
+      - primary_data:/media/movies
+    networks:
+      - homelab-net
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.tmm.rule=Host(`tmm.local`)"
+      - "traefik.http.services.tmm.loadbalancer.server.port=4000"
+
+  navidrome:
+    image: deluan/navidrome:latest
+    container_name: navidrome
+    user: "1000:1000"
+    environment:
+      - ND_SCANSCHEDULE=@every 1h
+      - ND_LOGLEVEL=info
+      - ND_ENABLETRANSCODINGCONFIG=true
+    volumes:
+      - ./config/navidrome:/data
+      - primary_data:/music:ro
+    networks:
+      - homelab-net
+    restart: unless-stopped
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.navi.rule=Host(`navidrome.local`)"
+      - "traefik.http.services.navi.loadbalancer.server.port=4533"
+
+  minio:
+    image: minio/minio:latest
+    container_name: minio
+    command: server /data/minio --console-address ":9001"
+    environment:
+      - MINIO_ROOT_USER=admin
+      - MINIO_ROOT_PASSWORD=supersecret
+    volumes:
+      - primary_data:/data/minio
+    networks:
+      - homelab-net
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.m-con.rule=Host(`minio-console.local`)"
+      - "traefik.http.services.m-con.loadbalancer.server.port=9001"
+
+  prefect:
+    image: prefecthq/prefect:2-python3.11
+    container_name: prefect
+    environment:
+      - PREFECT_API_URL=http://prefect.local/api
+      - PREFECT_SERVER_API_HOST=0.0.0.0
+      - PREFECT_UI_URL=http://prefect.local
+    volumes:
+      - ./config/prefect:/root/.prefect
+    command: prefect server start
+    restart: unless-stopped
+    networks:
+      - homelab-net
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.pref.rule=Host(`prefect.local`)"
+      - "traefik.http.services.pref.loadbalancer.server.port=4200"
+
+  postgres:
+    image: timescale/timescaledb:latest-pg14
+    container_name: postgres
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=supersecret
+      - POSTGRES_DB=homelab
+    volumes:
+      - ./config/postgres:/var/lib/postgresql/data
+    restart: unless-stopped
+    networks:
+      - homelab-net
+
+  picard:
+    image: mikenye/picard:latest
+    container_name: picard
+    security_opt:
+      - seccomp:unconfined
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+    volumes:
+      - ./config/picard:/config
+      - primary_data:/storage
+    networks:
+      - homelab-net
+    restart: unless-stopped
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.picard.rule=Host(`picard.local`)"
+      - "traefik.http.services.picard.loadbalancer.server.port=5800"
+
+  beets:
+    image: linuxserver/beets:latest
+    container_name: beets
+    environment:
+      - PUID=1000
+      - PGID=1000
+    volumes:
+      - ./config/beets:/config
+      - primary_data:/music
+    networks:
+      - homelab-net
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.beets.rule=Host(`beets.local`)"
+      - "traefik.http.services.beets.loadbalancer.server.port=8337"
+
+volumes:
+  primary_data:
+    driver: local
+    driver_opts:
+      type: btrfs
+      device: /dev/disk/by-label/PRIMARY 
+      o: subvol=@data,compress=zstd
+
+  failover_data:
+    driver: local
+    driver_opts:
+      type: btrfs
+      device: /dev/disk/by-label/FAILOVER
+      o: subvol=@data,compress=zstd
+
+networks:
+  homelab-net:
+    name: homelab-net

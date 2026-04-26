@@ -1,0 +1,14 @@
+navidrome/
+jellyfin/
+config/
+postgres-data/
+media/
+backups/
+**/ffmpeg
+**/*.db
+**/*.sqlite
+.git/gc.log
+
+
+.DS_Store
+
