@@ -198,15 +198,15 @@ volumes:
     driver: local
     driver_opts:
       type: btrfs
-      device: /dev/disk/by-label/PRIMARY 
-      o: subvol=@data,compress=zstd
+      device: /dev/disk/by-label/PRIMARY
+      o: bind,subvol=@data,compress=zstd
 
   failover_data:
     driver: local
     driver_opts:
       type: btrfs
       device: /dev/disk/by-label/FAILOVER
-      o: subvol=@data,compress=zstd
+      o: bind,subvol=@data,compress=zstd
 
 networks:
   homelab-net:
